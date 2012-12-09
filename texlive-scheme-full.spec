@@ -113,3 +113,11 @@ available.
 %build
 
 %install
+
+
+%changelog
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120307-1
++ Revision: 783110
+- Import texlive-scheme-full
+- Import texlive-scheme-full
+
