@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-scheme-full
 Version:	20131013
-Release:	1
+Release:	2
 Summary:	full scheme (everything)
 Group:		Publishing
 URL:		http://tug.org/texlive
