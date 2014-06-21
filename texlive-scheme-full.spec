@@ -1,12 +1,12 @@
-# revision 30492
+# revision 33790
 # category Scheme
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-full
-Version:	20131013
-Release:	6
+Version:	20140621
+Release:	1
 Summary:	full scheme (everything)
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -30,6 +30,7 @@ Requires:	texlive-collection-htmlxml
 Requires:	texlive-collection-humanities
 Requires:	texlive-collection-langafrican
 Requires:	texlive-collection-langarabic
+Requires:	texlive-collection-langchinese
 Requires:	texlive-collection-langcjk
 Requires:	texlive-collection-langcyrillic
 Requires:	texlive-collection-langczechslovak
@@ -40,6 +41,8 @@ Requires:	texlive-collection-langgerman
 Requires:	texlive-collection-langgreek
 Requires:	texlive-collection-langindic
 Requires:	texlive-collection-langitalian
+Requires:	texlive-collection-langjapanese
+Requires:	texlive-collection-langkorean
 Requires:	texlive-collection-langother
 Requires:	texlive-collection-langpolish
 Requires:	texlive-collection-langportuguese
