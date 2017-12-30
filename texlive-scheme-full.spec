@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-full
-Version:	20140621
-Release:	4
+Version:	20170504
+Release:	1
 Summary:	full scheme (everything)
 Group:		Publishing
 URL:		http://tug.org/texlive
