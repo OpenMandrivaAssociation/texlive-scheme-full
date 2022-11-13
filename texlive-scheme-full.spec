@@ -1,17 +1,11 @@
-# revision 33790
-# category Scheme
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-scheme-full
-Version:	20190228
+Version:	54074
 Release:	1
 Summary:	full scheme (everything)
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scheme-full.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scheme-full.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
@@ -71,7 +65,7 @@ available.
 
 #-----------------------------------------------------------------------
 %prep
-%setup -c -a0
+%autosetup -p1 -c
 
 %build
 
