@@ -1,6 +1,6 @@
 Name:		texlive-scheme-full
 Version:	54074
-Release:	2
+Release:	3
 Summary:	full scheme (everything)
 Group:		Publishing
 URL:		http://tug.org/texlive
